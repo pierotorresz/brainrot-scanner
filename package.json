@@ -1,0 +1,8 @@
+{
+  "name": "brainrot-scanner",
+  "version": "1.0.0",
+  "main": "external_scanner_node.js",
+  "scripts": {
+    "start": "node external_scanner_node.js"
+  }
+}
